@@ -1,6 +1,6 @@
 # FILIPE GOMES - WEB FULLSTACK DEV
 
-#### 💻 Spring/Angular
+#### 💻 Spring/Java11
 #### 🎓 Generation Brasil
 #### 📍 São Paulo
 #### ✅ #opentowork
