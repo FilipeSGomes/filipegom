@@ -22,7 +22,7 @@
 </div>
   
   ##
-  
+  **FilipeSGomes/filipegom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   <div>  	
   <a href = "mailto:filipesan7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/filipesan7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
